@@ -4,3 +4,8 @@ We have to know why?
 ### Will Daniele be able to complete his evil plan ?
 
 ![Image of Cat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
